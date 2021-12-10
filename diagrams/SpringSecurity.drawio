@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T07:47:54.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="oQz14YjrRWmiLhkKGlBg" version="15.8.6" type="device"><diagram id="I2nrE8n2WdrftIY1XfoU" name="Page-1">7VfLbtswEPwaHhNI1vso2U56aBEDLtD2SIu0RIQSDZq25X59lxIl6+E0DpoCKdBLshySS+7uzFJGzryoHiXe5V8EoRzNLFIhZ4FmM9u3IvinkXOLuE6DZJKRBrMuwJr9pGZhix4YoXuDNZASgiu2G4KpKEuaqgGGpRSn4bKt4GQA7HBGJ8A6xXyKfmNE5Q0azoIL/omyLG9Ptn0TcYHbxSaSfY6JOPUgZ4mcuRRCNVZRzSnX2Rvm5eGF2e5ikpbqlg2rJ7afl5V6fJpvv+IV2f54PNyZyx4xP5iA0czn4C/ZgJFpY03lkVMFq9DSRUmIwrg1ErT0UeSjMGh3wfHdRhO2Ore5PFKpGKT2M95QvhJ7ppgoYWojlBIF7GgXxJxlekKJHaC5KjgMbDAhhzvtrKgyzbf7Dd6z9F7WhU+2jPO54EJCahelKKneoKR47ipXu2go5lhgs5I0ybP62+vLOtst9dO0c9GbIUG0sawuQH1pWr1YFLsrNYiEioIqeYYlZsNd0BLdCOTO8wxwutDNDg2W96gWGAwbhmed8wsJwDA8eAMn7OB1UiwopxlWrMweGFdUrqSozjeRQIoDZJ2YpJ9ypuh6h1M9e4Kajur9TFWam7XTWr5HAfzIufdGJXC8aQncYFoC96+VILxBlzsJ6a9l6aEkRpGLloH+G4f/hfr+QnWdjyfUG7p3TY4AJTPNgMSpyeGh0EMxcNzqcQioE6PQBbtR9D8pZtf+gGJu4xiUaZRIWpJYf63AKOV4D2IZ5m6YaFox9d3MaPuHxiHwZrSoessWZzNojqRk8rkzSi5cSxxkSm94IBSWGVWvEnRarl4pvCuCaTFJOTwxx+GFr5XHnLASrFS/k6xvj2rchGr29b+dxq6ccOzKH7lqkjFxVTOmC/0PSDS7Tetx/QSA1sMIRaGWdZKgKLpJzSA8NZLsoKWaVt3vvwbC5h1IgUvQOqYPRMEI0cdc7RFDcg/axHs0BW/Sud1p546u8NB5e0eA4eWLvqn95YeRs/wF</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-10T08:17:31.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="uE2OjTnuKOzNQChm8OKP" version="15.9.4" type="github">
+  <diagram id="I2nrE8n2WdrftIY1XfoU" name="Page-1">
+    <mxGraphModel dx="1870" dy="1801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="POisCnxtGOCfTaPdfYGu-9" value="&lt;b&gt;Servlet 上下文&lt;/b&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=30;indent=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-643" y="-1122" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="POisCnxtGOCfTaPdfYGu-17" value="&lt;b&gt;DelegatingFilterProxy&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-626.5" y="-1107" width="147" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="POisCnxtGOCfTaPdfYGu-18" value="&lt;b&gt;Spring 应用上下文&lt;/b&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=30;indent=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-363" y="-1122" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="POisCnxtGOCfTaPdfYGu-19" value="&lt;b&gt;已注入 Spring 的 Filter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-346.5" y="-1107" width="147" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="POisCnxtGOCfTaPdfYGu-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="POisCnxtGOCfTaPdfYGu-17" target="POisCnxtGOCfTaPdfYGu-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-363" y="-1182" as="sourcePoint" />
+            <mxPoint x="-313" y="-1232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POisCnxtGOCfTaPdfYGu-22" value="&lt;b&gt;委托给&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="-463" y="-1112" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
