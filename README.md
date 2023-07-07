@@ -1,3 +1,3 @@
 # drawio
 
-Save the file of draw.io
+Save the image file of draw.io
