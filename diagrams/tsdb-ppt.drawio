@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T13:18:43.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="n5Sygi_9iKIt4Gd7tiF2" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T14:00:40.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1uNRYwhHDcQtZ7vdNREG" version="21.6.1" type="github">
   <diagram name="第 1 页" id="BCQUyjtqmzLGjh9cX_vp">
     <mxGraphModel dx="934" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,12 @@
         </mxCell>
         <mxCell id="Sd76gMTyIaL-4WNEAxPR-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sd76gMTyIaL-4WNEAxPR-62" target="Sd76gMTyIaL-4WNEAxPR-106">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sd76gMTyIaL-4WNEAxPR-123" value="Vin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="176" y="1213" width="475" height="434" as="geometry" />
+        </mxCell>
+        <mxCell id="Sd76gMTyIaL-4WNEAxPR-124" value="Vin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1239" width="475" height="434" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
