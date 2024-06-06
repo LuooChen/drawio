@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T05:32:34.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="a0BxH791fKIvtgwVE7x-" version="24.4.14" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-06T07:58:14.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-cj4OHTouOWIs88sKkCn" version="24.4.14" type="github" pages="3">
   <diagram name="第 1 页" id="JfcvyipnLNr43_exvYc2">
     <mxGraphModel dx="934" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IBoFXxraMPbTAMOwwawk" name="第 3 页">
-    <mxGraphModel dx="794" dy="458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="1" shadow="0">
+    <mxGraphModel dx="794" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,6 +301,18 @@
             <mxPoint x="555" y="280" as="sourcePoint" />
             <mxPoint x="493" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5B_BTlLkdVvkpAI2Zgvy-1" value="bitcount=0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="60" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5B_BTlLkdVvkpAI2Zgvy-4" value="bitcount=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5B_BTlLkdVvkpAI2Zgvy-5" value="bitcount=2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5B_BTlLkdVvkpAI2Zgvy-6" value="bitcount=3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
